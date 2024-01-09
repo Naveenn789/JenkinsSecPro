@@ -1,0 +1,7 @@
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppJenkins\ConAppJenkins\bin\Debug\ConAppJenkins.exe.config
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppJenkins\ConAppJenkins\bin\Debug\ConAppJenkins.exe
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppJenkins\ConAppJenkins\bin\Debug\ConAppJenkins.pdb
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppJenkins\ConAppJenkins\obj\Debug\ConAppJenkins.csproj.AssemblyReference.cache
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppJenkins\ConAppJenkins\obj\Debug\ConAppJenkins.csproj.CoreCompileInputs.cache
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppJenkins\ConAppJenkins\obj\Debug\ConAppJenkins.exe
+C:\Mphasis\Phase-4\Day-3\Assesment\ConAppJenkins\ConAppJenkins\obj\Debug\ConAppJenkins.pdb
